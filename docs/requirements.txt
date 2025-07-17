@@ -1,0 +1,13 @@
+jupyter-book
+wrds
+matplotlib
+seaborn
+Rpy2
+python=3.10
+R-DBI
+R-base
+R-irkernel
+R-Rpostgres
+R-ggplot2
+R-dbi
+R-lubridate \
